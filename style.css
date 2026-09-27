@@ -1,0 +1,31 @@
+h1 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 200.5;
+    margin-left: 350;
+    flex-direction: column;
+    color: burlywood;
+}
+p{
+    font-size: 50;
+    color:wheat;
+    font-family:'Arial Narrow';
+}
+body{
+    background-color:antiquewhite ;
+    margin-left: 60;
+}
+button{
+    width: 200px;
+    length: 200px;
+    height: 200px;
+    margin-left: 700;
+    background-color: bisque;
+    font-family: 'Arial Narrow';
+    color:burlywood
+}
+button:hover{
+background-color:rgb(217, 186, 132)
+
+}
+
+
